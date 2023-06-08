@@ -17,10 +17,10 @@
 # Jose Oscar Henao Monje
 
 ################################
-### CAPÕTULO 1. INTRODUCCI”N ###
+### CAP√çTULO 1. INTRODUCCI√ìN ###
 ################################
 
-1+3 # operaciÛn suma
+1+3 # operaci√≥n suma
 
 ## CREAR OBJETOS ##
 
@@ -34,9 +34,9 @@ hello
 
 ## CREAR FUNCIONES EN R ##
 
-# FUNCI”N DE RAÕZ CUADRADA (sqrt)
-sqrt(4) # Calcula la raÌz cuadrada de 4
-sqrt(four) # Calcula la raÌz cuadrada del objeto "four"
+# FUNCI√ìN DE RA√çZ CUADRADA (sqrt)
+sqrt(4) # Calcula la ra√≠z cuadrada de 4
+sqrt(four) # Calcula la ra√≠z cuadrada del objeto "four"
 
 
 ## CREAR Y DAR SENTIDO A LOS DATOS ##
